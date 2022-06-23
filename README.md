@@ -13,15 +13,17 @@ The other Dataset used in this repository is "Heart Failure Prediction Dataset" 
 # Summary of Workdone
 
 Data: 
-
-Type:
+        Type:
         
-        Input: The datasets are csv files that have 8 attrubute for the diabetes dataset and 11 atributes for heart failture dataset.
+                Input: The datasets are csv files that have 8 attrubute for the diabetes dataset and 11 atributes for heart failture dataset.
  
- Size: 
-         The "Heart Failure Prediction Dataset" dataset have 918 instances and "Diabetes Dataset" have 768 instances. In both dataset 33% was used as a test data and the remaining were used as train.
+        Size: 
+                The "Heart Failure Prediction Dataset" dataset have 918 instances and "Diabetes Dataset" have 768 instances. In both dataset 33% was used as a test data and the remaining were used as train.
          
 # Data Visualization
-<img width="764" alt="Screen Shot 2022-06-23 at 3 44 09 PM" src="https://user-images.githubusercontent.com/89664911/175384448-5d92ad55-061e-4a49-a081-03e293235720.png">
+<img width="764" alt="Screen Shot 2022-06-23 at 3 44 09 PM" src<img width="792" alt="Screen Shot 2022-06-23 at 6 19 28 PM" src="https://user-images.githubusercontent.com/89664911/175424665-25262112-d63f-4f24-9f09-d80ec241b772.png">
+="https://user-images.githubusercontent.com/89664911/175384448-5d92ad55-061e-4a49-a081-03e293235720.png">
 
+
+##The first picture shows the correlation of the attributes in "Diabetes Dataset"  and the second picture shows the correlation among the attributes in  "Heart Failure Prediction Dataset" .
 
