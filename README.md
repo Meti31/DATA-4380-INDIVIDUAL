@@ -13,17 +13,25 @@ The other Dataset used in this repository is "Heart Failure Prediction Dataset" 
 # Summary of Workdone
 
 Data: 
-        Type:
-        
-                Input: The datasets are csv files that have 8 attrubute for the diabetes dataset and 11 atributes for heart failture dataset.
- 
-        Size: 
+  Type:
+        Input: The datasets are csv files that have 8 attrubute for the diabetes dataset and 11 atributes for heart failture dataset.
+  Size: 
                 The "Heart Failure Prediction Dataset" dataset have 918 instances and "Diabetes Dataset" have 768 instances. In both dataset 33% was used as a test data and the remaining were used as train.
          
 # Data Visualization
-<img width="764" alt="Screen Shot 2022-06-23 at 3 44 09 PM" src<img width="792" alt="Screen Shot 2022-06-23 at 6 19 28 PM" src="https://user-images.githubusercontent.com/89664911/175424665-25262112-d63f-4f24-9f09-d80ec241b772.png">
-="https://user-images.githubusercontent.com/89664911/175384448-5d92ad55-061e-4a49-a081-03e293235720.png">
+
+<img width="764" alt="Screen Shot 2022-06-23 at 3 44 09 PM" src="https://user-images.githubusercontent.com/89664911/175424760-cd94f129-6a60-4d41-8386-7acc047c3924.png">
+
+<img width="792" alt="Screen Shot 2022-06-23 at 6 19 28 PM" src="https://user-images.githubusercontent.com/89664911/175424810-a925933b-010c-4a57-99da-61345b3f16e4.png">
 
 
 ##The first picture shows the correlation of the attributes in "Diabetes Dataset"  and the second picture shows the correlation among the attributes in  "Heart Failure Prediction Dataset" .
+
+# Problem Formulation and Training
+The first step was cleaning the datasets individually. After that the datasets were divided in to training and testing data. In each dataset 33% were used to train it.Both datasets were trained using Random Forest classifier,support Vector classifier,Logistic Regression, Desicion Tree and Gaussian Naive Bayes. 
+
+# Performance Comparison
+In both datasets the Random forest classifier had the highest accuracy score which was 0.874587 for "Heart Failure Prediction Dataset" and "Diabetes Dataset" .Then the Random forest classifier model was saved for both datasets. Then Streamlit was used to develop web app that takes an inputs from users and predict if they are prone to Diabetes or Heart Failture. The pictures below will show how the app look and works.
+<img width="1196" alt="Screen Shot 2022-06-23 at 7 47 18 PM" src="https://user-images.githubusercontent.com/89664911/175433046-0159f8c8-8188-4b92-8d6a-49fa32dadcd5.png">
+
 
