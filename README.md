@@ -57,6 +57,26 @@ In both datasets the Random forest classifier had the highest accuracy score whi
 
 <img width="1055" alt="Screen Shot 2022-06-28 at 9 59 45 AM" src="https://user-images.githubusercontent.com/89664911/176197860-bb8d7254-6fc1-4802-a0da-f6c8d96123d6.png">
 
+# Conclusions
+
+Comparing random Forest classifier,support Vector classifier,Logistic Regression, Desicion Tree and Gaussian Naive Bayes, Random forest classifier have the highest accuracy score on those datasets. And the predictor was able to predict the likelyhood of having these disease based on the trained model.
+
+
+# Future work
+
+In the future I am planning to add more similar datasets to broaden the work. And Eventhough streamlite makes it easy to build the web app , it sometimes stop working so it is not reliable. So in the future I am planning to use other open source app framework in python to build the webapp.
+
+
+# How to reproduce results
+
+The cleanData notebook contains how to clean and train the datasets and then using the Heart Diasease predictor and Diabetes predictor notebook one can reproduce results.
+
+# Citation
+
+1.https://docs.streamlit.io/library/get-started/create-an-app
+
+2.https://www.geeksforgeeks.org/machine-learning-with-python/
+
 
 
 
