@@ -32,6 +32,11 @@ The first step was cleaning the datasets individually. After that the datasets w
 
 # Performance Comparison
 In both datasets the Random forest classifier had the highest accuracy score which was 0.874587 for "Heart Failure Prediction Dataset" and "Diabetes Dataset" .Then the Random forest classifier model was saved for both datasets. Then Streamlit was used to develop web app that takes an inputs from users and predict if they are prone to Diabetes or Heart Failture. The pictures below will show how the app look and works.
+
+
+<img width="1192" alt="Screen Shot 2022-06-28 at 10 19 01 AM" src="https://user-images.githubusercontent.com/89664911/176202342-bb91c33e-a6cc-4b24-af8f-d37d37a85ae6.png">
+
+
 <img width="1196" alt="Screen Shot 2022-06-23 at 7 47 18 PM" src="https://user-images.githubusercontent.com/89664911/175433046-0159f8c8-8188-4b92-8d6a-49fa32dadcd5.png">
 
 <img width="761" alt="Screen Shot 2022-06-26 at 2 30 43 AM" src="https://user-images.githubusercontent.com/89664911/176094039-bacedce0-6b74-48fc-bc59-b356de4844ef.png">
@@ -62,7 +67,6 @@ In both datasets the Random forest classifier had the highest accuracy score whi
 
 
 
-<img width="1192" alt="Screen Shot 2022-06-28 at 10 19 01 AM" src="https://user-images.githubusercontent.com/89664911/176202342-bb91c33e-a6cc-4b24-af8f-d37d37a85ae6.png">
 
 
 
