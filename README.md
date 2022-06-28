@@ -8,13 +8,13 @@ This repository holds an attempt to compare the performance of different machine
 
 The "Diabetes Dataset" contains the diagnosis of females at least 21 years old of Pima Indian heritage based on factors like Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI,DiabetesPedigreeFunction,Age. The outcomes are described as 0 or 1 with 0 being tested negative for diabetes and 1 being tested positive for diabetes.
 
-The other Dataset used in this repository is "Heart Failure Prediction Dataset"  which is combinatiion of 5 heart disease datasets . The dataset contains a diagnosis of patients based on factors like Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,maximum heart rate achieved,ExerciseAngina,Oldpeak and the slope of the peak exercise ST segment.The diagnosis are described as 0 0r 1 with 0 being not having heart failture and 1 being having heart failture.
+The other Dataset used in this repository is "Heart Failure Prediction Dataset"  which is combinatiion of 5 heart disease datasets . The dataset contains a diagnosis of patients based on factors like Age,Sex,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,maximum heart rate achieved,ExerciseAngina,Oldpeak and the slope of the peak exercise ST segment.The diagnosis are described as 0 0r 1 with 0 being not having heart failure and 1 being having heart failure.
 
 # Summary of Workdone
 
 Data: 
   Type:
-        Input: The datasets are csv files that have 8 attrubute for the diabetes dataset and 11 atributes for heart failture dataset.
+        Input: The datasets are csv files that have 8 attrubute for the diabetes dataset and 11 atributes for heart failure dataset.
   Size: 
                 The "Heart Failure Prediction Dataset" dataset have 918 instances and "Diabetes Dataset" have 768 instances. In both dataset 33% was used as a test data and the remaining were used as train.
          
@@ -31,7 +31,7 @@ Data:
 The first step was cleaning the datasets individually. After that the datasets were divided in to training and testing data. In each dataset 33% were used to train it.Both datasets were trained using Random Forest classifier,support Vector classifier,Logistic Regression, Desicion Tree and Gaussian Naive Bayes. 
 
 # Performance Comparison
-In both datasets the Random forest classifier had the highest accuracy score which was 0.874587 for "Heart Failure Prediction Dataset" and "Diabetes Dataset" .Then the Random forest classifier model was saved for both datasets. Then Streamlit was used to develop web app that takes an inputs from users and predict if they are prone to Diabetes or Heart Failture. The pictures below will show how the app look and works.
+In both datasets the Random forest classifier had the highest accuracy score which was 0.874587 for "Heart Failure Prediction Dataset" and "Diabetes Dataset" .Then the Random forest classifier model was saved for both datasets. Then Streamlit was used to develop web app that takes an inputs from users and predict if they are prone to Diabetes or Heart Failure. The pictures below will show how the app look and works.
 
 
 <img width="1192" alt="Screen Shot 2022-06-28 at 10 19 01 AM" src="https://user-images.githubusercontent.com/89664911/176202342-bb91c33e-a6cc-4b24-af8f-d37d37a85ae6.png">
