@@ -34,4 +34,19 @@ The first step was cleaning the datasets individually. After that the datasets w
 In both datasets the Random forest classifier had the highest accuracy score which was 0.874587 for "Heart Failure Prediction Dataset" and "Diabetes Dataset" .Then the Random forest classifier model was saved for both datasets. Then Streamlit was used to develop web app that takes an inputs from users and predict if they are prone to Diabetes or Heart Failture. The pictures below will show how the app look and works.
 <img width="1196" alt="Screen Shot 2022-06-23 at 7 47 18 PM" src="https://user-images.githubusercontent.com/89664911/175433046-0159f8c8-8188-4b92-8d6a-49fa32dadcd5.png">
 
+<img width="761" alt="Screen Shot 2022-06-26 at 2 30 43 AM" src="https://user-images.githubusercontent.com/89664911/176094039-bacedce0-6b74-48fc-bc59-b356de4844ef.png">
+<img width="741" alt="Screen Shot 2022-06-26 at 2 31 01 AM" src="https://user-images.githubusercontent.com/89664911/176094055-cef6a137-a0ef-4270-8bd1-489000d86a61.png">
+
+
+
+<img width="777" alt="Screen Shot 2022-06-26 at 2 35 26 AM" src="https://user-images.githubusercontent.com/89664911/176094087-faebce35-f1ad-4c3e-bbd2-cd1d1aef2333.png">
+
+
+<img width="765" alt="Screen Shot 2022-06-26 at 2 35 38 AM" src="https://user-images.githubusercontent.com/89664911/176094101-6e04f131-8bf5-4198-a480-c147f9fb2787.png">
+
+
+
+<img width="777" alt="Screen Shot 2022-06-26 at 2 32 19 AM" src="https://user-images.githubusercontent.com/89664911/176094174-e59c4a87-332f-4b3d-9a47-b099bdc4107b.png">
+<img width="765" alt="Screen Shot 2022-06-26 at 2 35 38 AM" src="https://user-images.githubusercontent.com/89664911/176094175-5abd7ead-1879-433a-a8ee-82fd3c70c826.png">
+<img width="777" alt="Screen Shot 2022-06-26 at 2 35 26 AM" src="https://user-images.githubusercontent.com/89664911/176094176-56c5d15b-82cd-434f-a4e3-e6311408e109.png">
 
