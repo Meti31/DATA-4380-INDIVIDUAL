@@ -15,7 +15,8 @@ The other Dataset used in this repository is "Heart Failure Prediction Dataset" 
 Data: 
   
   Type:
-        Input: The datasets are csv files that have 8 attrubute for the diabetes dataset and 11 atributes for heart failure dataset.
+        Input: The datasets are csv files that have 8 attributes for the diabetes dataset and 11 attributes for heart failure dataset.
+  
   Size: 
                 The "Heart Failure Prediction Dataset" dataset have 918 instances and "Diabetes Dataset" have 768 instances. In both dataset 33% was used as a test data and the remaining were used as train.
          
