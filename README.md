@@ -56,6 +56,11 @@ In both datasets the Random forest classifier had the highest accuracy score whi
 <img width="1055" alt="Screen Shot 2022-06-28 at 9 59 45 AM" src="https://user-images.githubusercontent.com/89664911/176197860-bb8d7254-6fc1-4802-a0da-f6c8d96123d6.png">
 
 <img width="1083" alt="Screen Shot 2022-06-28 at 9 57 53 AM" src="https://user-images.githubusercontent.com/89664911/176197873-02518757-4b43-4a2c-bceb-b318b85ffa8c.png"><img width="1074" alt="Screen Shot 2022-06-28 at 9 57 38 AM" src="https://user-images.githubusercontent.com/89664911/176197896-2e3532b6-371f-40d4-8038-e807bdb10389.png">
+<img width="1199" alt="Screen Shot 2022-06-28 at 10 04 44 AM" src="https://user-images.githubusercontent.com/89664911/176198949-c4db53fb-e764-4e95-b4cb-59aa25afbfc1.png">
+
+
+
+
 
 
 
