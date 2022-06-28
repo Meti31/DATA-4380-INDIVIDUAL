@@ -37,17 +37,14 @@ In both datasets the Random forest classifier had the highest accuracy score whi
 <img width="1192" alt="Screen Shot 2022-06-28 at 10 19 01 AM" src="https://user-images.githubusercontent.com/89664911/176202342-bb91c33e-a6cc-4b24-af8f-d37d37a85ae6.png">
 
 
-<img width="1196" alt="Screen Shot 2022-06-23 at 7 47 18 PM" src="https://user-images.githubusercontent.com/89664911/175433046-0159f8c8-8188-4b92-8d6a-49fa32dadcd5.png">
-
-<img width="761" alt="Screen Shot 2022-06-26 at 2 30 43 AM" src="https://user-images.githubusercontent.com/89664911/176094039-bacedce0-6b74-48fc-bc59-b356de4844ef.png">
-<img width="741" alt="Screen Shot 2022-06-26 at 2 31 01 AM" src="https://user-images.githubusercontent.com/89664911/176094055-cef6a137-a0ef-4270-8bd1-489000d86a61.png">
 
 
 
-<img width="777" alt="Screen Shot 2022-06-26 at 2 35 26 AM" src="https://user-images.githubusercontent.com/89664911/176094087-faebce35-f1ad-4c3e-bbd2-cd1d1aef2333.png">
 
 
-<img width="765" alt="Screen Shot 2022-06-26 at 2 35 38 AM" src="https://user-images.githubusercontent.com/89664911/176094101-6e04f131-8bf5-4198-a480-c147f9fb2787.png">
+
+
+
 
 
 
@@ -61,7 +58,7 @@ In both datasets the Random forest classifier had the highest accuracy score whi
 <img width="1055" alt="Screen Shot 2022-06-28 at 9 59 45 AM" src="https://user-images.githubusercontent.com/89664911/176197860-bb8d7254-6fc1-4802-a0da-f6c8d96123d6.png">
 
 <img width="1083" alt="Screen Shot 2022-06-28 at 9 57 53 AM" src="https://user-images.githubusercontent.com/89664911/176197873-02518757-4b43-4a2c-bceb-b318b85ffa8c.png"><img width="1074" alt="Screen Shot 2022-06-28 at 9 57 38 AM" src="https://user-images.githubusercontent.com/89664911/176197896-2e3532b6-371f-40d4-8038-e807bdb10389.png">
-<img width="1199" alt="Screen Shot 2022-06-28 at 10 04 44 AM" src="https://user-images.githubusercontent.com/89664911/176198949-c4db53fb-e764-4e95-b4cb-59aa25afbfc1.png">
+
 
 
 
