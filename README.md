@@ -1,6 +1,6 @@
 <img width="305" alt="Screen Shot 2022-06-23 at 9 47 05 AM" src="https://user-images.githubusercontent.com/89664911/175315233-f8cc17a8-18c6-4454-b42d-07a07184e1a8.png">
 
-# Prediction of Diseases using machine learning algorithms
+# Prediction of Diseases using machine learning Algorithms
 
 This repository holds an attempt to compare the performance of different machine learning algorithms on two dataset.And also attempts to build web app using streamlit to predict the likelihood of a person having these disease based on the given datasets. The datasets  used are "Diabetes Dataset"( https://www.kaggle.com/datasets/mathchi/diabetes-data-set) and "Heart Failure Prediction Dataset" (https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
@@ -36,6 +36,8 @@ In both datasets the Random forest classifier had the highest accuracy score whi
 
 <img width="1192" alt="Screen Shot 2022-06-28 at 10 19 01 AM" src="https://user-images.githubusercontent.com/89664911/176202342-bb91c33e-a6cc-4b24-af8f-d37d37a85ae6.png">
 <img width="1055" alt="Screen Shot 2022-06-28 at 9 59 45 AM" src="https://user-images.githubusercontent.com/89664911/176197860-bb8d7254-6fc1-4802-a0da-f6c8d96123d6.png">
+
+<img width="939" alt="Screen Shot 2022-06-28 at 9 39 54 AM" src="https://user-images.githubusercontent.com/89664911/176253741-0bc511cb-e82d-427f-8477-ed680cc920af.png">
 
 
 
@@ -83,7 +85,6 @@ The cleanData notebook contains how to clean and train the datasets and then usi
 
 
 
-<img width="939" alt="Screen Shot 2022-06-28 at 9 39 54 AM" src="https://user-images.githubusercontent.com/89664911/176253741-0bc511cb-e82d-427f-8477-ed680cc920af.png">
 
 
 
