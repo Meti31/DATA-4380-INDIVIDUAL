@@ -13,6 +13,7 @@ The other Dataset used in this repository is "Heart Failure Prediction Dataset" 
 # Summary of Workdone
 
 Data: 
+  
   Type:
         Input: The datasets are csv files that have 8 attrubute for the diabetes dataset and 11 atributes for heart failure dataset.
   Size: 
