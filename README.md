@@ -37,7 +37,6 @@ In both datasets the Random forest classifier had the highest accuracy score whi
 <img width="1192" alt="Screen Shot 2022-06-28 at 10 19 01 AM" src="https://user-images.githubusercontent.com/89664911/176202342-bb91c33e-a6cc-4b24-af8f-d37d37a85ae6.png">
 
 
-<img width="939" alt="Screen Shot 2022-06-28 at 9 39 54 AM" src="https://user-images.githubusercontent.com/89664911/176253741-0bc511cb-e82d-427f-8477-ed680cc920af.png">
 
 
 
@@ -54,13 +53,16 @@ In both datasets the Random forest classifier had the highest accuracy score whi
 <img width="898" alt="Screen Shot 2022-06-28 at 9 39 40 AM" src="https://user-images.githubusercontent.com/89664911/176193367-208f233f-e4da-4ac0-a288-065c68a47c7a.png">
 
 
+<img width="939" alt="Screen Shot 2022-06-28 at 9 39 54 AM" src="https://user-images.githubusercontent.com/89664911/176253741-0bc511cb-e82d-427f-8477-ed680cc920af.png">
+
+
 
 <img width="1083" alt="Screen Shot 2022-06-28 at 9 57 53 AM" src="https://user-images.githubusercontent.com/89664911/176197873-02518757-4b43-4a2c-bceb-b318b85ffa8c.png"><img width="1074" alt="Screen Shot 2022-06-28 at 9 57 38 AM" src="https://user-images.githubusercontent.com/89664911/176197896-2e3532b6-371f-40d4-8038-e807bdb10389.png">
 
 <img width="1055" alt="Screen Shot 2022-06-28 at 9 59 45 AM" src="https://user-images.githubusercontent.com/89664911/176197860-bb8d7254-6fc1-4802-a0da-f6c8d96123d6.png">
 
 # Conclusions
-<img width="1055" alt="Screen Shot 2022-06-28 at 9 59 45 AM" src="https://user-images.githubusercontent.com/89664911/176197860-bb8d7254-6fc1-4802-a0da-f6c8d96123d6.png">
+
 
 Comparing random Forest classifier,support Vector classifier,Logistic Regression, Desicion Tree and Gaussian Naive Bayes, Random forest classifier have the highest accuracy score on those datasets. And the predictor was able to predict the likelyhood of having these disease based on the trained model.
 
