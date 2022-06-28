@@ -2,7 +2,7 @@
 
 # Prediction of Diseases using machine learning Algorithms
 
-This repository holds an attempt to compare the performance of different machine learning algorithms on two dataset.And also attempts to build web app using streamlit to predict the likelihood of a person having these disease based on the given datasets. The datasets  used are "Diabetes Dataset"( https://www.kaggle.com/datasets/mathchi/diabetes-data-set) and "Heart Failure Prediction Dataset" (https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
+This repository holds an attempt to compare the performance of different machine learning algorithms on two dataset.And also attempts to build web app using streamlit to predict the likelihood of a person having these diseases based on the given datasets. The datasets  used are "Diabetes Dataset"( https://www.kaggle.com/datasets/mathchi/diabetes-data-set) and "Heart Failure Prediction Dataset" (https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
 # Overview
 
