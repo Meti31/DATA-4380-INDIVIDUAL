@@ -83,6 +83,7 @@ The cleanData notebook contains how to clean and train the datasets and then usi
 
 
 
+<img width="939" alt="Screen Shot 2022-06-28 at 9 39 54 AM" src="https://user-images.githubusercontent.com/89664911/176253741-0bc511cb-e82d-427f-8477-ed680cc920af.png">
 
 
 
