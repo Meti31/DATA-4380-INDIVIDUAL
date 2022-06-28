@@ -25,7 +25,7 @@ Data:
 <img width="792" alt="Screen Shot 2022-06-23 at 6 19 28 PM" src="https://user-images.githubusercontent.com/89664911/175424810-a925933b-010c-4a57-99da-61345b3f16e4.png">
 
 
-##The first picture shows the correlation of the attributes in "Diabetes Dataset"  and the second picture shows the correlation among the attributes in  "Heart Failure Prediction Dataset" .
+The first picture shows the correlation of the attributes in "Diabetes Dataset"  and the second picture shows the correlation among the attributes in  "Heart Failure Prediction Dataset" .
 
 # Problem Formulation and Training
 The first step was cleaning the datasets individually. After that the datasets were divided in to training and testing data. In each dataset 33% were used to train it.Both datasets were trained using Random Forest classifier,support Vector classifier,Logistic Regression, Desicion Tree and Gaussian Naive Bayes. 
